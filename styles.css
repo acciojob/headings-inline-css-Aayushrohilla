@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.first{
+	font-size: 34px; 
+	color: blue; 
+}
+.second{
+	font-size: 30px; 
+	color: red;
+}
+.third{
+	font-size: 24px; 
+	color: green; 
+}
+.forth{
+	font-size: 20px; 
+	color: yellow; 
+}
+	
